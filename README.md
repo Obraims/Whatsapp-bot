@@ -346,6 +346,6 @@ MIT - Feel free to modify and share
 
 ---
 
-**Happy automating! 🚀**
+**Happy automating with Obraims bot! 🚀**
 
 Questions? Check the troubleshooting section or GitHub issues.
