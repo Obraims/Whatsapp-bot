@@ -1,6 +1,6 @@
 # 🤖 WhatsApp Personal Bot - Free Automation
 
-A free, open-source WhatsApp Personal automation bot with auto-replies and chatbot.
+Free, open-source WhatsApp Personal automation bot with auto-replies and chatbot.
 
 ## ✨ Features
 
